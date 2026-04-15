@@ -1,0 +1,11 @@
+# Python dependencies for AI Employee watchers
+watchdog>=3.0.0
+pathlib>=1.0.1
+
+# Optional — for future Gmail watcher
+# google-api-python-client>=2.0.0
+# google-auth-httplib2>=0.1.0
+# google-auth-oauthlib>=1.0.0
+
+# Optional — for future WhatsApp watcher
+# playwright>=1.40.0

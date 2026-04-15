@@ -1,0 +1,43 @@
+# Secrets & Credentials
+.env
+*.env
+*.secret
+credentials.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+pip-log.txt
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/workspace.json
+
+# Watcher sessions
+session/
+sessions/
+
+# Temporary files
+*.tmp
+*.log
+temp/
+
+# Process manager
+.pm2/
